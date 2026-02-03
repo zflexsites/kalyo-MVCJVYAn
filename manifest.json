@@ -4,7 +4,7 @@
   "description": "Kalyo, entreprise agro-pastorale à Bukavu, promeut la consommation locale d'aliments bio et non transformés. Garante de la sécurité alimentaire, la marque offre des produits sains et authentiques. Son identité visuelle combine noir, rouge tomate et vert pour une image forte et naturelle.",
   "start_url": "/?source=pwa",
   "display": "standalone",
-  "background_color": "#F8FFF8",
+  "background_color": "#000000",
   "theme_color": "#388E3C",
   "icons": [
     {
